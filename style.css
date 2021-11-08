@@ -1,0 +1,68 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-image: url('bacteria.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron {
+  color: rgb(173, 255, 47, 0.9);
+  background-color: rgb(53, 47, 47, 0.9);
+  text-shadow: 2px 2px 10px #0a0a0a;
+}
+
+.well {
+  background-color: rgb(53, 47, 47, 0.9);
+  font-size: x-large;
+  color: black;
+  margin-left: -25rem;
+  margin-right: 25rem;
+}
+
+.well h5 {
+  color: azure;
+  font-size: x-large;
+}
+
+.panel {
+  background-color: rgb(53, 47, 47, 0.9);
+  font-size: x-large;
+  color: azure;
+  margin-left: -25rem;
+  margin-right: 25rem;
+}
+
+.panel-title {
+  color: azure;
+  font-size: x-large;
+}
+
+.panel-body h6 {
+  color: azure;
+  font-size: x-large;
+}
+
+.bar {
+  margin-left: -15rem;
+  margin-right: 15rem;
+}
+
+.bubble {
+  margin-top: -8rem;
+}
+
+.gauge {
+  margin-left: 6rem;
+}
+
+.plot-container {
+  color: azure;
+  font-size: large;
+}
